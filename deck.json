@@ -1,0 +1,1966 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a3274f1e-d132-11ea-89f2-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Bowl 1",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What organelle functions to isolate a human cell’s chromosomes from the cytoplasm?&nbsp;<div><br></div><div>{{c1::Nucleus}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ho*=?87)H@",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the primary oxygen-carrying protein found in red blood cells?<div><br></div><div>{{c1::Hemoglobin}}<br></div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N>xa[dJ)is",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What physical state of matter is intermediate between a solid and gas?<div><br></div><div>{{c1::Liquid}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "EfI)fGQS3x",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A term that BEST describes the term static:<div><br></div><div>{{c1::Stationary}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "JAN$xuPcob",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Tides}} are caused by the Rising and falling of sea levels in response to the forces exerted by the {{c2::Moon}} and Sun?",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "o@#$7D`zL{",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Approximately what fraction of earth's surface is covered by oceans?<div><br></div><div>{{c1::7/10}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "rJU+:|v?m:",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How many degrees are in one-third of a right angle?<div><br></div><div>{{c1::30}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "I(O6PtyLSy",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Round the number 535,279 to the nearest ten-thousand<div><br></div><div>{{c1::540000}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "C>x[ndU`]Z",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The number 4.56 × 10<sup>11 </sup>has how many zeroes<div><br></div><div>{{c1::9}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "p%RaFR=X2Q",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Giving your answer in grams, subtract 200 grams from 6.2 kilograms:<div><br></div><div>{{c1::6000}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "i<k?Y<}TUR",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How many permanent teeth does a typical adult human have?<div><br></div><div>{{c1::32}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "t0OGR9u5<)",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The hydrologic cycle describes the circulation of Earth’s {{c1::water}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "LQJfSV7r#T",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the SI base unit for length?<div><br></div><div>{{c1::meter}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CX4@eA4tA1",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Most of the heart is composed of which of the following types of tissues<div><br></div><div>{{c1::Muscle}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "n7Tg%ndcv`",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In the taxonomical name Homo sapiens, what taxonomical rank does sapiens represent?<div><br></div><div>{{c1::Species}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "A&:7u{QnBv",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What atomic particle balances the charge of protons to produce a neutral atom?<div><br></div><div>{{c1::Electron}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "FEHDf%O*I+",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which of the Gas giant planets is closest to the Sun?<div><br></div><div>{{c1::Jupiter}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "f@WHK;tmO3",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is generally considered the basic unit of life?<div><br></div><div>{{c1::Cell}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "w[^44~5iVL",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In what organelle of a plant cell does photosynthesis occur?<div><br></div><div>{{c1::Chloroplast or Plastid}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "g9$61=@u~,",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a327a28c-d132-11ea-a716-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Bowl 2",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Name the biochemical process that converts grape juice into {{c2::wine}} or soy beans into soy sauce is called {{c1::Fermentation}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "xKbaQX{[Gv",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Common name for the {{c2::antiseptic}}, found in many homes, that decomposes into water and oxygen?<div><br></div><div>{{c1::Hydrogen Peroxide}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "dbFq*]k@O)",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The chemical formula for {{c2::hydrogen peroxide}} is {{c1::H<sub>2</sub>0<sub>2</sub>}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Fq2R*:e0ue",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the scientific name for the white of a cooked egg?<div><br></div><div>{{c1::Albumen}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "hGBaE-1p)B",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What term do scientists use for the force of gravity acting on anything that has mass?<div><br></div><div>{{c1::Weight}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "O-9qIQ^gc&",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "An ionic state of an atom of hydrogen would have how many protons?<div><br></div><div>{{c1::1}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "ul,uK2m{@j",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A weather forecast of 100% relative humidity suggests an increased possibility of {{c1::Rain}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "yFN>,nf4x&",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The half of the Earth west of the Prime Meridian is {{c1::Western Hemisphere}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CO^h[FA8L#",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The half of the Earth east of the Prime Meridian is {{c1::Eastern Hemisphere}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "lvV@s,I5m(",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How does the Prime Meridian divide Earth?<div><br></div><div>{{c1::Eastern and Western Hemispheres}}</div>",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "u;!8JLlAeU",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The {{c3::prime meridian}} is a {{c2::vertical}} {{c1::longitude}} line",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "CV+f)ENO6I",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The prime meridian is {{c1::0}} degrees {{c2::longitude}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "jeS<Sl-n7{",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Greenwich England}} passes thru the {{c2::prime meridian}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "c/s]}dKTx{",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c3::Equator}} is {{c2::0}} degrees {{c1::latitude}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "sni7w9[]wF",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "{{c1::Tropical}} climate is found in band around the {{c2::equator}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "N}.UBOl6iv",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Equatorial {{c2::Guinea}} does not lie on the {{c1::equator}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "Me!1n89zHP",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The geographic north pole is at {{c1::90}} degrees {{c2::latitude}}",
+                        ""
+                    ],
+                    "flags": 0,
+                    "guid": "wvmsU)RD=H",
+                    "note_model_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a327e168-d132-11ea-856c-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "Matter",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Atom",
+                        "basic unit of matter"
+                    ],
+                    "flags": 0,
+                    "guid": "e#Q0)0I9(r",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Definite volume and definite shape",
+                        "Solids"
+                    ],
+                    "flags": 0,
+                    "guid": "H!vTOdDn/M",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Definite volume but no definite shape",
+                        "Liquids"
+                    ],
+                    "flags": 0,
+                    "guid": "Pr1N2Fw5=J",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Does not have definite volume or definite shape",
+                        "Gases"
+                    ],
+                    "flags": 0,
+                    "guid": "C}}w,On)=!",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Conduction",
+                        "Process of transferring energy by direct contact"
+                    ],
+                    "flags": 0,
+                    "guid": "OC&2w3/^-v",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Conduction rule",
+                        "energy can only be transferred from something at a higher temperature to something at a lower temperature"
+                    ],
+                    "flags": 0,
+                    "guid": "z*JAA|Oltd",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Changing from a solid to a gas",
+                        "sublimation"
+                    ],
+                    "flags": 0,
+                    "guid": "u26}xLs<Vy",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Evaporation",
+                        "Changing from a liquid to a gas"
+                    ],
+                    "flags": 0,
+                    "guid": "idLChRPH]J",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "changing from a gas to a liquid",
+                        "Condensation"
+                    ],
+                    "flags": 0,
+                    "guid": "GOQj-~>}o0",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Changing from a gas to solid",
+                        "Deposition"
+                    ],
+                    "flags": 0,
+                    "guid": "f;8kEljg//",
+                    "note_model_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a32802a6-d132-11ea-a487-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "SB1",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this incorrect astronomical model that places Earth at the center of the solar system and universe, contrasted with the heliocentric model.",
+                        "geocentric"
+                    ],
+                    "flags": 0,
+                    "guid": "NOH]OB?_i4",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this quantity measured in Pascals, the force exerted per unit of area.",
+                        "pressure"
+                    ],
+                    "flags": 0,
+                    "guid": "D,j`+uw)1.",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these rocky accumulations of debris left behind by a glacier.",
+                        "moraines"
+                    ],
+                    "flags": 0,
+                    "guid": "l@>XNb<bWV",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these engineering projects, such as one between Brooklyn and Manhattan over the East River.",
+                        "bridges"
+                    ],
+                    "flags": 0,
+                    "guid": "e{+x$V?+dZ",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this bony structure that protects the brain.",
+                        "skull"
+                    ],
+                    "flags": 0,
+                    "guid": "Ln*NtE8&)a",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, give this term for a line that just touches a curve once.",
+                        "tangent"
+                    ],
+                    "flags": 0,
+                    "guid": "tmRv>qix4`",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this \"fourth\" state of matter",
+                        "plasma"
+                    ],
+                    "flags": 0,
+                    "guid": "w+O5Lm$Aa@",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this type of compound in which the electron count differs from the proton count, thus giving the compound a positive or negative charge",
+                        "ions"
+                    ],
+                    "flags": 0,
+                    "guid": "niS+<(A]mW",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this galaxy of the Local Group that is home to our Solar System.",
+                        "Milky Way"
+                    ],
+                    "flags": 0,
+                    "guid": "BMCbhXSBw7",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what large invertebrate phylum of crustaceans, arachnids, and insects, making up about 80% of all known species?",
+                        "anhropods"
+                    ],
+                    "flags": 0,
+                    "guid": "heXnT58uF+",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what highly diverse biome in regions like South America's Amazon, named for its high level of precipitation?",
+                        "tropical rainforests"
+                    ],
+                    "flags": 0,
+                    "guid": "QnvwjrI2?m",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this with element with chemical symbol Ca",
+                        "calcium"
+                    ],
+                    "flags": 0,
+                    "guid": "h4#wgNO%d~",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what polymer of nitrogenous bases that forms a double helix?",
+                        "DNA"
+                    ],
+                    "flags": 0,
+                    "guid": "berph|Z[-.",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this phenomenon that, in a hurricane, measures over 74 miles per hour.",
+                        "winds"
+                    ],
+                    "flags": 0,
+                    "guid": "iO2UjJkZfY",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what stored form of energy, contrasted with kinetic energy?",
+                        "potential energy"
+                    ],
+                    "flags": 0,
+                    "guid": "KSfK/S_PcV",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this English naturalist who developed the theory of evolution by natural selection.",
+                        "Charles Darwin"
+                    ],
+                    "flags": 0,
+                    "guid": "D{8)r^G-F,",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these shapes in which the distance from each point to the center is equal to the radius.",
+                        "circles"
+                    ],
+                    "flags": 0,
+                    "guid": "f{hP7+7%<U",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these celestial objects that, as they pass near the Sun, develop a bright tail.",
+                        "comets"
+                    ],
+                    "flags": 0,
+                    "guid": "N0{B8{E[7R",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what seismic events measured on the Richter scale that can cause buildings to topple over?",
+                        "earthquakes"
+                    ],
+                    "flags": 0,
+                    "guid": "nR+}tXNF*R",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this two-dimensional measure that can be computed for triangles as one-half base times height.",
+                        "area"
+                    ],
+                    "flags": 0,
+                    "guid": "kI#&xEv1OX",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this celestial body visited by the Luna spacecraft and Neil Armstrong.",
+                        "Earth's Moon"
+                    ],
+                    "flags": 0,
+                    "guid": "x0uYTc0+^V",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this number that, when added to any other number, does not change that number.",
+                        "zero"
+                    ],
+                    "flags": 0,
+                    "guid": "D?LUm/fikK",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this constant, approximately 3 times ten to the eighth meters per second within a vacuum, the speed of all massless particles.",
+                        "speed of light"
+                    ],
+                    "flags": 0,
+                    "guid": "h,Azi9.Ul~",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what structure surrounding the cell membrane, a hard protective outer layer of some cells?",
+                        "cell wall"
+                    ],
+                    "flags": 0,
+                    "guid": "kYDmj`R1N+",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this event that wiped out over 90% of species on Earth, the largest extinction event in history, which defines the beginning of the Triassic Period.",
+                        "Great Permian Extinction"
+                    ],
+                    "flags": 0,
+                    "guid": "Ab+Q_DQHZM",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this joint between the arm and the hand.",
+                        "wrist"
+                    ],
+                    "flags": 0,
+                    "guid": "Lq|(8(|ycF",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these periods marked by lack of precipitation.",
+                        "droughts"
+                    ],
+                    "flags": 0,
+                    "guid": "lEzT?.6+@[",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this number approximately equal to 2.718.",
+                        "Euler's number"
+                    ],
+                    "flags": 0,
+                    "guid": "Dq4Pjr>CNL",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this animal phylum that includes mussels, squids, and snails.",
+                        "molluscs"
+                    ],
+                    "flags": 0,
+                    "guid": "HU{OK^!]K0",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what marine mammals, including sea lions?",
+                        "seals"
+                    ],
+                    "flags": 0,
+                    "guid": "g.*aVMh(Nn",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this large, dark storm on Jupiter, named for its color.",
+                        "Jupiter's Great Red Spot"
+                    ],
+                    "flags": 0,
+                    "guid": "j@$HwdVQFM",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this law of chemistry, named for an Anglo-Irishman, that describes the inverse relationship between pressure and volume.",
+                        "Boyle's Law"
+                    ],
+                    "flags": 0,
+                    "guid": "o#}hztCv%G",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these rearrangements of elements in which order matters, contrasted with combinations.",
+                        "permutations"
+                    ],
+                    "flags": 0,
+                    "guid": "zrCXSVJMW.",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this form of magnetism commonly shown by the element it is named after, iron.",
+                        "ferromagnetism"
+                    ],
+                    "flags": 0,
+                    "guid": "uMwjB)z5F.",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what type of engine that runs on gaseous water?",
+                        "steam engine"
+                    ],
+                    "flags": 0,
+                    "guid": "N~8.Y$W-t.",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what compound with chemical formula O3, found in a \"layer\" around the Earth?",
+                        "ozone layer"
+                    ],
+                    "flags": 0,
+                    "guid": "yHCbZ|n~hI",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these nutrients classified into A, C, and many B types.",
+                        "viatmins"
+                    ],
+                    "flags": 0,
+                    "guid": "vrvv+X&_[Q",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this constellation that resembles a bull.",
+                        "Taurus"
+                    ],
+                    "flags": 0,
+                    "guid": "K<sj#,*tEv",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this quantity, symbolized S, the measure of the disorder of a system.",
+                        "entropy"
+                    ],
+                    "flags": 0,
+                    "guid": "xxq)U}.Vo`",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name these structures where a deep hole is drilled in the Earth to find oil or natural gas.",
+                        "oil wells"
+                    ],
+                    "flags": 0,
+                    "guid": "xo44DdTC).",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "for the point, what objects that contain plant embryos and are thus sown by farmers?",
+                        "seeds"
+                    ],
+                    "flags": 0,
+                    "guid": "NOs>Bd5[`1",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For the point, name this shape that, like an oval, is more elongated than a circle",
+                        "ellipse"
+                    ],
+                    "flags": 0,
+                    "guid": "BZxe=DOJir",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a328722c-d132-11ea-b539-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "SB5",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Term for the symbiotic relationship where one organism benefits and the other is harmed?",
+                        "Parasitic"
+                    ],
+                    "flags": 0,
+                    "guid": "f[uRw!JV?o",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Term for a relationship in which one organism is affected and the other is unaffected",
+                        "Commensalism"
+                    ],
+                    "flags": 0,
+                    "guid": "f}Q*c+C^wJ",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Types of symbiotic relationships",
+                        "Commensalism Mutalism Parasitism"
+                    ],
+                    "flags": 0,
+                    "guid": "q#1*l;n~di",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In periodic chart what number gives the number of protons in a given element:",
+                        "Atomic Number"
+                    ],
+                    "flags": 0,
+                    "guid": "js*u_CMGb*",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Most blizzards that strike the U.S. most directly originated in",
+                        "Gulf of Alaska"
+                    ],
+                    "flags": 0,
+                    "guid": "z8&TCI[+7e",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What terrestrial planet rotates in an opposite direction to the planet Earth",
+                        "Venus"
+                    ],
+                    "flags": 0,
+                    "guid": "V5DlZE#lS",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the mathematical term for coplanar lines that never intersect?",
+                        "Parallel"
+                    ],
+                    "flags": 0,
+                    "guid": "h:fW*vxZ$)",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Parallel",
+                        "Lines that never intersect"
+                    ],
+                    "flags": 0,
+                    "guid": "GVy2JmrJ6(",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Scientific term for the ability of different substances to flow more or less freely",
+                        "Viscosity"
+                    ],
+                    "flags": 0,
+                    "guid": "Ew|)Z;pjR{",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Viscosity",
+                        "Scientific term for the ability of different substances to flow more or less freely"
+                    ],
+                    "flags": 0,
+                    "guid": "EmDy+V{1SE",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "the study of the shape and features of land surfaces",
+                        "Topography"
+                    ],
+                    "flags": 0,
+                    "guid": "u#*e`_Vsl2",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Bit",
+                        "Binary digit that stores information"
+                    ],
+                    "flags": 0,
+                    "guid": "lB>&Aa1)NK",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Binary digit that stores information",
+                        "Bit"
+                    ],
+                    "flags": 0,
+                    "guid": "E$.4?FzY65",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "compounds have atoms from more than one element (True/False)",
+                        "TRUE"
+                    ],
+                    "flags": 0,
+                    "guid": "eH-{BJ#iFc",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Atoms can bond to form molecule (True/False)",
+                        "TRUE"
+                    ],
+                    "flags": 0,
+                    "guid": "b-}tpr|bO$",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which of the following types of maps would be most useful on a hiking trip through the Alps",
+                        "Topography"
+                    ],
+                    "flags": 0,
+                    "guid": "qP]3u~0r6N",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In what structure of a nucleated cell are ribosomes assembled into their subunits?",
+                        "Nucleolus"
+                    ],
+                    "flags": 0,
+                    "guid": "Hdw[Pl(L~5",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Are gases highly compressible",
+                        "Yes"
+                    ],
+                    "flags": 0,
+                    "guid": "hkO*=nPQOY",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Are liquids highly compressible",
+                        "No"
+                    ],
+                    "flags": 0,
+                    "guid": "M#W8Bf#Ds?",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the most common element in most steel",
+                        "Iron"
+                    ],
+                    "flags": 0,
+                    "guid": "qHl5kpA<}r",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What substance is most used for pencil lead",
+                        "Graphite"
+                    ],
+                    "flags": 0,
+                    "guid": "iRCHNUh&MZ",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What element is graphite made of",
+                        "Carbon"
+                    ],
+                    "flags": 0,
+                    "guid": "NpxP%3De_7",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "A huge tidal wave from the sea",
+                        "Tsunami"
+                    ],
+                    "flags": 0,
+                    "guid": "DQi%B&~J5?",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a328b462-d132-11ea-962e-8c8590acb6d5",
+            "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "SB3-SB4",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Marks the southern boundary between polar air to the north and warmer air to the south",
+                        "Polar Jet Stream"
+                    ],
+                    "flags": 0,
+                    "guid": "bzaVfN#1d?",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Layer of earth contains over 60% of the mass composed of iron- and magnesium-rich silicates?",
+                        "Mantle"
+                    ],
+                    "flags": 0,
+                    "guid": "Hkkspzw<EE",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Biological polymer found in chromosomes that stores genetic information?",
+                        "DNA"
+                    ],
+                    "flags": 0,
+                    "guid": "I@apS1VzHO",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Name all of the following choices that a physicist would consider to be simple machines",
+                        "Lever Ramp Gear"
+                    ],
+                    "flags": 0,
+                    "guid": "ti7#Z!2?gI",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "How many zeros in quintillion",
+                        "18"
+                    ],
+                    "flags": 0,
+                    "guid": "m;tRS(V+91",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "For x-illion, what is the formula for finding the number of zeros",
+                        "3 * x + 3"
+                    ],
+                    "flags": 0,
+                    "guid": "xoj<k08yDj",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the sum of all angles in a triangle",
+                        "180"
+                    ],
+                    "flags": 0,
+                    "guid": "m+Y,46^g0)",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the sum of all angles in a rectangle",
+                        "360"
+                    ],
+                    "flags": 0,
+                    "guid": "JW>Dt}vd)>",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the value of each angle in an equilatoral triangle",
+                        "60"
+                    ],
+                    "flags": 0,
+                    "guid": "knSV!]12Po",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "In a right angled triangle, what is the sum of the other two angles",
+                        "90"
+                    ],
+                    "flags": 0,
+                    "guid": "IkH~6CgEtx",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What planets are able to pass between earth and son",
+                        "Mercury and Venus"
+                    ],
+                    "flags": 0,
+                    "guid": "CP/6ql|<Ui",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the ultimate source of energy of all earth",
+                        "Sun"
+                    ],
+                    "flags": 0,
+                    "guid": "o/[k^;[ijm",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Most common source of energy for brain cells in humans",
+                        "glucose"
+                    ],
+                    "flags": 0,
+                    "guid": "Rb|:ldh_!G",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "One of the 4 basic forces most directly involved with maintaining the planets in their orbits?",
+                        "gravity"
+                    ],
+                    "flags": 0,
+                    "guid": "tytq`D}7q#",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What can sometimes result after a moderate to severe blow to the head",
+                        "Concussion"
+                    ],
+                    "flags": 0,
+                    "guid": "qncM*Uic.H",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which of the following is the hottest region of planet Earth:",
+                        "Inner core"
+                    ],
+                    "flags": 0,
+                    "guid": "n]YIc:W(J%",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Which 2 metals are the inner core made from?",
+                        "Iron and Nickel"
+                    ],
+                    "flags": 0,
+                    "guid": "DIlP<37ly6",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Iron and Nickel are found in what part of earth",
+                        "Inner Core"
+                    ],
+                    "flags": 0,
+                    "guid": "Cg03f-/~%F",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "The lead-acid battery is most commonly found in:",
+                        "Automobiles"
+                    ],
+                    "flags": 0,
+                    "guid": "qBf@,?xV^e",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Believed to be the most basic requirement or signature for life to exist on a planet",
+                        "Water"
+                    ],
+                    "flags": 0,
+                    "guid": "LUX.R2DOB3",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What nucleon balances the charge of electrons to give an atom a neutral state?",
+                        "Proton"
+                    ],
+                    "flags": 0,
+                    "guid": "h0s~u^Z7qL",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What is the scientific name of the human windpipe?",
+                        "Trachea"
+                    ],
+                    "flags": 0,
+                    "guid": "u72Gw(h^gX",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "From what biological polymer is paper primarily composed?",
+                        "Cellulose"
+                    ],
+                    "flags": 0,
+                    "guid": "wPz(@H}?97",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What are the Nucleons",
+                        "Proton and Neutron"
+                    ],
+                    "flags": 0,
+                    "guid": "JIO&WWB)jM",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "What describes a smaller stream that merges with a larger stream:",
+                        "Tributary"
+                    ],
+                    "flags": 0,
+                    "guid": "Nq3$ez#RG^",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "Found in toothpastes, making the teeth more resistant to decay by promoting remineralization:",
+                        "Fluoride"
+                    ],
+                    "flags": 0,
+                    "guid": "g`G%Vb~sFo",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "If the area of a square field is 1,600 square feet, how many feet long is one of its sides?",
+                        "40"
+                    ],
+                    "flags": 0,
+                    "guid": "c3j,z>z4f`",
+                    "note_model_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "a320e534-d132-11ea-af06-8c8590acb6d5",
+    "deck_config_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a3272958-d132-11ea-a08f-8c8590acb6d5",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Science 5",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a3276ea4-d132-11ea-8ef9-8c8590acb6d5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-08987",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a327ec4c-d132-11ea-a0d4-8c8590acb6d5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-c4024",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a3280fe4-d132-11ea-9890-8c8590acb6d5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-a12e8",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
